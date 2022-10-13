@@ -1,5 +1,5 @@
 ---
-title: Fait avec netlify CMS
+title: Bienvenue sur Netlify CMS
 date: 2022-10-12T17:13:15.993Z
 cats:
   - description: Maru is a Scottish Fold from Japan, and he loves boxes.
